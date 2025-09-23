@@ -12,20 +12,20 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 📋 Backlog do Produto  
 
-👉 [Acesse o Backlog Completo](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/backlog.md)
+👉 [Acesse o Backlog Completo](https://github.com/dev-joaogabriel/Projeto-HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/backlog.md)
 
 ---
 
 ## 📆 Cronograma de Evolução do Projeto  
 
-👉 [Acesse o DiagramaGantt](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/gantt.md)
+👉 [Acesse o DiagramaGantt](https://github.com/dev-joaogabriel/Projeto-HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/gantt.md)
 
 
 ---
 
 ## 📋 Tabela de Sprints  
 
-👉 [Acesse as Sprints](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/sprint.md)
+👉 [Acesse as Sprints](https://github.com/dev-joaogabriel/Projeto-HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/sprint.md)
 
 
 ---
@@ -42,7 +42,7 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 🗂️ Pasta de Documentação
 
-👉 [Acesse a Documentação](https://github.com/kauacsilva/HelpDesk/tree/main/Documenta%C3%A7%C3%A3o)
+👉 [Acesse a Documentação](https://github.com/dev-joaogabriel/Projeto-HelpDesk/tree/main/Documenta%C3%A7%C3%A3o)
 
 
 ---
