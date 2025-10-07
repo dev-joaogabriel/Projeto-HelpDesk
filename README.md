@@ -1,4 +1,4 @@
-# 📌 HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial  
+# 📌 HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial
 
 _Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização._
 
